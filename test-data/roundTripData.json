@@ -1,0 +1,113 @@
+{
+  "fromCity": "BLR",
+  "fromCityFull": "Bengaluru, Karnataka, India",
+  "toCity": "Dxb",
+  "toCityFull": "Dubai International Airport",
+
+  "departMonthYear": "April 2026",
+  "departDay": "1",
+  "returnMonthYear": "April 2026",
+  "returnDay": "4",
+
+  "adults": 4,
+  "children": 3,
+  "infants": 2,
+
+  "passengers": [
+    {
+      "titleId": "MR-0-manual",
+      "dob": {
+  "day": "10",
+  "month": "05",
+  "year": "1995"
+    }},
+    {
+      "titleId": "MR-1-manual",
+         "dob": {
+  "day": "10",
+  "month": "05",
+  "year": "1995"
+    }
+    },
+    {
+      "titleId": "MS-2-manual",
+         "dob": {
+  "day": "20",
+  "month": "03",
+  "year": "1999"
+    }
+    },
+    {
+      "titleId": "MRS-3-manual",
+         "dob": {
+  "day": "5",
+  "month": "04",
+  "year": "1999"
+    }
+    },
+    {
+      "titleId": "MSTR-4-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2020"
+      }
+    },
+    {
+      "titleId": "MS-5-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2023"
+      }
+    },
+    {
+      "titleId": "MSTR-6-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2020"
+      }
+    },
+    {
+      "titleId": "MS-7-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2024"
+      }
+    },
+    {
+      "titleId": "MSTR-8-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2025"
+      }
+    }
+  ],
+  "mobile": "7788336633",
+  "email": "pragati0@gmail.com",
+
+  "arrivalCity": "Abu Dhabi",
+  "airline": "Etihad Airways",
+  "layover": "",
+  "stops": "1 Stop",
+  "special": "Student",
+  "filter": "Early Arrival",
+  "priceValue": 160799,
+  "arrivalTime": "02:10",
+   "flightDuration": "24h 42m",
+   "layoverDuration": "20h 30m",
+   "departureDestinationTime": "09:00",
+
+   "DepartCity": "DXB - Dubai",
+  "airlineReturn": "IndiGo",
+  "layoverReturn": "BOM",
+  "priceValueReturn": 160799,
+  "arrivalTimeReturn": "02:10",
+   "flightDurationReturn": "24h 42m",
+   "layoverDurationReturn": "20h 30m",
+   "departureDestinationTimeReturn": "11:00"
+ 
+}

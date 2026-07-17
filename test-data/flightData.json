@@ -1,0 +1,46 @@
+{
+  "fromCity": "BLR",
+  "fromCityFull": "Bengaluru, Karnataka, India",
+  "toCity": "GOX",
+  "toCityFull": "Goa Mopa, Goa, India",
+  "monthYear": "April 2026",
+  "day": "2",
+  "adults": 1,
+  "children": 2,
+  "infants": 0,
+  "passengers": [
+    {
+      "titleId": "MR-0-manual"
+  
+    },
+    {
+      "titleId": "MSTR-1-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2020"
+      }
+    },
+    {
+      "titleId": "MS-2-manual",
+      "dob": {
+        "day": "12",
+        "month": "08",
+        "year": "2023"
+      }
+    }
+  ],
+  "mobile": "778",
+  "email": "pragati0@gmail.com",
+  "arrivalCity": "Goa Dabolim",
+  "airline": "Air India",
+  "layover": "Mumbai",
+  "stops": "1 Stop",
+  "special": "Student",
+  "filter": "Early Arrival",
+  "priceValue": 21560,
+  "arrivalTime": "06:50",
+   "flightDuration": "24h 18m",
+   "layoverDuration": "20h 24m",
+   "departureDestinationTime": "07:30AM"
+}
